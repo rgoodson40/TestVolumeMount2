@@ -1,5 +1,5 @@
 {
-    "name": "TestVolumeMount Container",
+    "name": "TestVolumeMount2 Container",
     "dockerComposeFile": ["docker-compose.yml"],
     "service": "app",
     "workspaceFolder": "/workspace"
