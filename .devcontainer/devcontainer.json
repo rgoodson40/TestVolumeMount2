@@ -1,0 +1,6 @@
+{
+    "name": "TestVolumeMount Container",
+    "dockerComposeFile": ["docker-compose.yml"],
+    "service": "app",
+    "workspaceFolder": "/workspace"
+}
